@@ -1,4 +1,1 @@
-# MealsToGo2
-# MealsToGo2
-# MealsToGo2
-# MealsToGo
+a restaurant application using React, React Hooks, Expo, React Navigation, Firebase, Styled-Components, Google Maps/Places API, React Animations
